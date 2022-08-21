@@ -4,4 +4,5 @@
 
 <h3>Screen</h3>
 
+<h3>gif may take some time to load</h3>
 ![](screen.gif)
